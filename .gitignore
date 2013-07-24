@@ -1,0 +1,30 @@
+# netBeans all
+build.xml
+manifest.mf
+
+# java files all
+*.class
+*.jar
+*.war
+*.ear
+
+# photoshop
+*.psd
+ 
+# media files
+*.mpg
+*.mp3
+*.mp4
+*.avi
+*.mkv
+ 
+# compressed files
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+ 
+# mac all
+.DS_Store
+*.dmg
